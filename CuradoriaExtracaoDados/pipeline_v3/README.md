@@ -1,8 +1,7 @@
 #Pipeline de Limpeza de Dados v3#
 Este repositório contém um pipeline de limpeza de dados v3 em Python, desenvolvido para pré-processar conjuntos de dados textuais. O pipeline foi desenvolvido para limpeza de dados advindos de redes sociais. Entretanto, ele pode ser utilizado para várias bases de dados textuais. O pipeline utiliza diversas bibliotecas, ferramentas e técnicas para garantir a qualidade e a consistência dos dados, incluindo agora tokenização e remoção de stopwords com NLTK.
 
-<img src="https://github.com/ciberdem/ProjetoHEIWA-FAPESP/blob/main/CuradoriaExtracaoDados/pipeline_v2/assets/Pipeline_diagrama.png" alt="Diagrama do pipeline de limpeza">
-
+#img
 Conteúdo
 Como Utilizar
 
