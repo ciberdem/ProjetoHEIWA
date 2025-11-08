@@ -37,7 +37,7 @@ Para instalar todas as dependências, utilize o arquivo requirements.txt. Com o 
 pip install -r /path/to/requirements.txt
 ```
 
-Após a instalação das bibliotecas, é necessário baixar alguns conteúdos adicionais para do NLTK para que o pipelone funcione corretamente. 
+Após a instalação das bibliotecas, é necessário baixar alguns conteúdos adicionais do NLTK para que o pipelone funcione corretamente. 
 
 ```python
 import nltk
