@@ -1,0 +1,5 @@
+pandas>=2.3.2
+demoji>=1.1.0
+enelvo>=0.0.15
+Unidecode>=1.4.0
+nltk>=3.8.0
