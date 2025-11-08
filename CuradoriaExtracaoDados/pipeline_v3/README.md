@@ -37,6 +37,16 @@ Para instalar todas as dependências, utilize o arquivo requirements.txt. Com o 
 pip install -r /path/to/requirements.txt
 ```
 
+Após a instalação das bibliotecas, é necessário baixar alguns conteúdos adicionais para do NLTK para que o pipelone funcione corretamente. 
+
+```python
+import nltk
+
+nltk.download('punkt')
+nltk.download('stopwords')
+nltk.download('punkt_tab')
+```
+
 ## Executando o Pipeline
 
 - **Arquivo de entrada**: O pipeline aceita arquivos nos formatos `.csv` ou `.json`. O caminho do arquivo de entrada e o nome da coluna que contém o texto a ser processado devem ser fornecidos.
