@@ -1,10 +1,10 @@
-# 🧠 Pipeline de Pré-processamento de Texto
+#Pipeline de Pré-processamento de Texto
 
 O **Pipeline de Pré-processamento de Texto** tem como objetivo padronizar e preparar dados textuais para aplicações em **Processamento de Linguagem Natural (PLN)**, aplicando uma sequência de transformações que facilitam o uso de modelos de aprendizado de máquina.
 
 ---
 
-## 🧩 Etapas do Pipeline
+## Etapas do Pipeline
 
 O pipeline realiza as seguintes etapas principais:
 
@@ -25,7 +25,7 @@ O pipeline realiza as seguintes etapas principais:
 
 ---
 
-## ⚙️ Executando o Pipeline
+## Executando o Pipeline
 
 ### 1. Instale as dependências
 
@@ -53,7 +53,7 @@ print(processed)
 
 ---
 
-## 🧪 Exemplo de Uso
+## Exemplo de Uso
 
 **Entrada:**
 ```python
@@ -67,32 +67,32 @@ print(processed)
 
 ---
 
-## 📊 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
-📦 projeto_pipeline
- ┣ 📜 pipeline.py
- ┣ 📜 README.md
- ┗ 📂 assets
+ projeto_pipeline
+ ┣  pipeline.py
+ ┣  README.md
+ ┗  assets
     ┗ diagrama.png
 ```
 
 ---
 
-## 📘 Diagrama do Processo
+## Diagrama do Processo
 
 ![Diagrama do Pipeline](assets/diagrama.png)
 
 ---
 
-## 🧠 Observações
+## Observações
 
 - Pode ser adaptado para outros idiomas ajustando as stopwords e o mapeamento de gírias.  
 - Ideal para **análises de sentimento**, **classificação de textos** e **limpeza de bases linguísticas**.
 
 ---
 
-## ✨ Autor
+## Autor
 
-Desenvolvido por **João Pedro**  
+Desenvolvido por **João Pedro Honorato**  
 Com foco em **clareza, modularidade e reutilização de código**.
