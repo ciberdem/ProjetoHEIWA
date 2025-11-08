@@ -105,6 +105,7 @@ pipeline('dados.csv', 'texto', formato='json', normalizar=False, remover_urls=Fa
 - `remover_urls` (padrão: `True`): Remove URLs do texto.
 - `converter_ascii` (padrão: `True`): Converte caracteres especiais para ASCII.
 - `remover_pontuacao` (padrão: `True`): Remove pontuações não associadas a números.
+- `tokenizar` (padrão: `True`): Tokeniza o texto
 
 
 # Funções do Pipeline
