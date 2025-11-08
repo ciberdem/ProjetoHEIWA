@@ -450,4 +450,3 @@ Saída: ["texto", "teste"] (exemplo ilustrativo — formato pode ser lista de to
 ## Autor
 
 Desenvolvido por **João Pedro Honorato**  
-Com foco em **clareza, modularidade e reutilização de código**.
