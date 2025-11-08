@@ -1,4 +1,4 @@
-#Pipeline de Pré-processamento de Texto
+# Pipeline de Pré-processamento de Texto
 
 O **Pipeline de Pré-processamento de Texto** tem como objetivo padronizar e preparar dados textuais para aplicações em **Processamento de Linguagem Natural (PLN)**, aplicando uma sequência de transformações que facilitam o uso de modelos de aprendizado de máquina.
 
