@@ -451,6 +451,7 @@ Saída: ["texto", "teste"] (exemplo ilustrativo — formato pode ser lista de to
 
 ## Teste
 
+<img src="https://github.com/ciberdem/ProjetoHEIWA-FAPESP/blob/main/CuradoriaExtracaoDados/pipeline_v3/assets/ex_de_teste_pipelinev3.png" alt="Exemplo de teste do pipeline v3">
 
 ---
 
