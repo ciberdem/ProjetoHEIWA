@@ -2,6 +2,8 @@
 
 O **Pipeline de Pré-processamento de Texto** tem como objetivo padronizar e preparar dados textuais para aplicações em **Processamento de Linguagem Natural (PLN)**, aplicando uma sequência de transformações que facilitam o uso de modelos de aprendizado de máquina.
 
+<img src="https://github.com/ciberdem/ProjetoHEIWA-FAPESP/blob/main/CuradoriaExtracaoDados/pipeline_v3/assets/diagrama_pipeline.png" alt="Diagrama do pipeline de limpeza">
+
 ---
 # Conteúdo
 
