@@ -442,12 +442,6 @@ Saída: ["texto", "teste"] (exemplo ilustrativo — formato pode ser lista de to
 
 ---
 
-## Diagrama do Processo
-
-![Diagrama do Pipeline](assets/diagrama.png)
-
----
-
 ## Observações
 
 - Pode ser adaptado para outros idiomas ajustando as stopwords e o mapeamento de gírias.  
